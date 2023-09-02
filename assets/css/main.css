@@ -148,7 +148,7 @@ input, select, textarea {
 
 	h2 {
 		font-size: 2em;
-		line-height: 1.5em;
+		line-height: 0.01em;
 	}
 
 	h3 {
@@ -276,6 +276,16 @@ input, select, textarea {
   font-size: 25px;
 }
 
+.p1_2 {
+  text-align: right;
+  padding: 15px;
+  font-size: 2px;
+}
+
+
+.tab {
+        tab-size: 2;
+    }
 
 /* Row */
 
@@ -1808,7 +1818,7 @@ input, select, textarea {
 	header h2 + p {
 		font-size: 1.25em;
 		margin-top: -0.5em;
-		line-height: 1.5em;
+		line-height: 1.0 em;
 	}
 
 	header h3 + p {
